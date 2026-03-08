@@ -10,7 +10,7 @@ Frontend Developer with 2+ years of experience building enterprise web applicati
 - Interested in building scalable UI systems and clean frontend architecture
 - Currently improving skills in JavaScript, Angular architecture, and modern frontend practices
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Frontend
 - Angular
