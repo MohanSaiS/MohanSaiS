@@ -52,11 +52,11 @@ Tools
 - Role based UI access
 - Data visualization using tables and forms
 
-## 📫 Contact
+## Contact
 
 Email: mohansaisunkara@gmail.com  
 Location: Andhra Pradesh, India
 
 ---
 
-⭐ Always interested in improving frontend performance, architecture, and clean UI development.
+Always interested in improving frontend performance, architecture, and clean UI development.
