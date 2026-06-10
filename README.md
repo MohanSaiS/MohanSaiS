@@ -117,6 +117,30 @@ SQL • Power BI • Tableau • Excel • KPI Reporting • Data Visualization 
 
 ---
 
+## Portfolio Highlights
+
+📊 Retail Sales & Profitability Analysis
+- SQL analysis of sales trends and profitability
+- Power BI KPI dashboard
+
+📈 Deloitte Australia Data Analytics Simulation
+- Data cleaning and visualization
+- Tableau dashboard and stakeholder insights
+
+📋 Business Analysis Artifacts
+- BRD
+- User Stories
+- Acceptance Criteria
+- UAT Test Cases
+
+🗄 SQL for Business Analytics
+- Joins
+- CTEs
+- Window Functions
+- KPI Reporting
+
+---
+
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohanSaiS&show_icons=true)
