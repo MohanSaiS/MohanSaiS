@@ -4,7 +4,7 @@
 
 ### Business Analyst • Data Analyst • Agile Practitioner
 
-Transforming business requirements into actionable solutions through analysis, stakeholder collaboration, and data-driven insights.
+Business Analyst with ~3 years of experience in Agile/Scrum environments, focused on requirement gathering, user stories, stakeholder collaboration, and data-driven decision-making using SQL, Excel, and BI tools.
 
 <p>
   <a href="mailto:mohansai.ratnakar@gmail.com">
@@ -15,179 +15,104 @@ Transforming business requirements into actionable solutions through analysis, s
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Experience-3%20Years-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agile-Scrum-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business-Analysis-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data-Analytics-green?style=flat-square" />
-</p>
-
 </div>
 
 ---
 
-## About Me
+## Summary
 
-Business Analyst with nearly **3 years of experience** working in Agile/Scrum environments, specializing in requirement gathering, user story creation, backlog management, stakeholder communication, and data-driven decision-making.
-
-Experienced in bridging the gap between business and technology by translating complex business needs into functional solutions while leveraging **SQL, Power BI, Tableau, and Excel** to generate actionable insights and support strategic decisions.
-
----
-
-## Core Competencies
-
-### Business Analysis
-
-- Requirement Gathering & Analysis
-- User Story Writing
-- Acceptance Criteria Definition
-- BRD & FRD Documentation
-- Functional Specifications
-- Gap Analysis
-- Backlog Management
-- Requirement Traceability
-- UAT Planning & Support
-- Stakeholder Management
-
-### Agile & Product Delivery
-
-- Agile Scrum
-- Sprint Planning
-- Backlog Refinement
-- Product Owner Collaboration
-- SDLC
-- Cross-Functional Team Coordination
-
-### Data Analytics
-
-- SQL
-- Power BI
-- Tableau
-- Microsoft Excel
-- KPI Reporting
-- Data Visualization
-- ETL Concepts
-- Data Modeling
-- Business Insights
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
-</p>
+Business Analyst with experience in Agile delivery environments, supporting end-to-end requirement gathering, documentation, and data analysis.  
+Skilled in translating business needs into structured requirements and supporting decision-making through reporting and dashboards.
 
 ---
 
-## Featured Projects
+## Skills
 
-### Retail Sales & Profitability Analysis
-
-**SQL • Excel • Power BI**
-
-- Analyzed sales and profitability trends across multiple dimensions
-- Identified key revenue drivers and business opportunities
-- Developed interactive KPI dashboards in Power BI
-- Delivered actionable business recommendations through data analysis
-
-🔗 **Repository:** Retail-Sales-Profitability-Analysis
-
----
-
-### Deloitte Australia Data Analytics Simulation
-
-**Excel • Tableau**
-
-- Conducted exploratory data analysis on business datasets
-- Created Tableau dashboards for stakeholder reporting
-- Generated business insights and recommendations
-- Simulated an end-to-end consulting engagement
-
-🔗 **Repository:** Deloitte-Australia-Data-Analytics-Forage
-
----
-
-### Business Analysis Artifacts
-
-**Jira • Confluence • Agile**
-
-- Business Requirement Documents (BRD)
-- Functional Requirement Documents (FRD)
+**Business Analysis**
+- Requirement Gathering & Documentation (BRD, FRD)
 - User Stories & Acceptance Criteria
-- UAT Test Cases
-- Process Flow Diagrams
+- Backlog Management
+- Stakeholder Communication
+- UAT Support
 
-🔗 **Repository:** Business-Analysis-Artifacts
+**Agile Delivery**
+- Scrum Participation
+- Sprint Planning & Refinement
+- SDLC Understanding
+- Cross-team Coordination
 
----
-
-### SQL for Business Analytics
-
-**SQL**
-
-- Business-focused SQL scenarios
-- KPI reporting queries
-- Joins, CTEs, Window Functions
-- Data analysis case studies
-
-🔗 **Repository:** SQL-for-Business-Analytics
+**Data & Reporting**
+- SQL (Data Extraction, Joins, Aggregations)
+- Excel (Reporting & Analysis)
+- Power BI / Tableau (Dashboards & KPIs)
 
 ---
 
-## Professional Experience
+## Experience
 
-### HCL Technologies
-**Business Analyst (Software Engineer)**  
-**Nov 2022 – Sep 2025**
+### HCL Technologies  
+**Business Analyst (Software Engineer)** | Nov 2022 – Sep 2025  
 
-✔ Gathered and analyzed business requirements across Agile delivery teams
-
-✔ Authored user stories and acceptance criteria for enterprise applications
-
-✔ Facilitated backlog refinement and stakeholder alignment sessions
-
-✔ Built operational KPI dashboards using Power BI
-
-✔ Supported UAT activities and requirement traceability
-
-✔ Collaborated with Product Owners, Developers, and QA teams throughout the SDLC
+- Gathered and documented business requirements in Agile environments  
+- Created user stories and acceptance criteria for development teams  
+- Supported sprint planning, backlog refinement, and stakeholder discussions  
+- Built KPI dashboards using Power BI for operational reporting  
+- Assisted in UAT and requirement validation  
 
 ---
 
-## Currently Learning
+## Projects
 
-- Advanced SQL for Analytics
-- Power BI Dashboard Design
-- Data Storytelling & Visualization
-- Product & Business Analysis Best Practices
-- Data-Driven Decision Making
+### Retail Sales Performance Analysis (In Progress)
+**Tools:** SQL, Excel, Power BI  
+- Analyzing sales performance and profitability trends  
+- Identifying key revenue drivers and product performance patterns  
+- Building dashboards for business insights and decision-making  
+
+---
+
+### Customer Segmentation Analysis (Planned)
+**Tools:** Python / Excel / Power BI  
+- Segmenting customers based on purchasing behavior  
+- Identifying high-value customer groups  
+- Supporting targeted marketing strategy insights  
+
+---
+
+### Agile Documentation Project (HCL Work Samples)
+**Tools:** Jira, Confluence  
+- Created BRD, FRD, user stories, and acceptance criteria  
+- Supported Agile sprint execution and backlog management  
+- Assisted UAT and requirement traceability  
+
+---
+
+## Learning Focus
+
+- Advanced SQL for analytics  
+- Power BI dashboard design  
+- Data storytelling  
+- Business process improvement  
+- Customer analytics
 
 ---
 
 ## Certifications
 
-Business Analysis Basics - Simplilearn <br>
-Deloitte Australia Data Analytics Job Simulation – Forage
-
+- Business Analysis Basics – Simplilearn  
+- Data Analytics Simulation – Deloitte (Forage)
 
 ---
 
-## Connect With Me
+## Contact
 
-**Email:** mohansai.ratnakar@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
-
-**Location:** Hyderabad, India
+Email: mohansai.ratnakar@gmail.com  
+LinkedIn: linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182  
 
 ---
 
 <div align="center">
 
-### "Turning business requirements into measurable business outcomes."
+*"Focused on turning requirements into measurable business outcomes."*
 
 </div>
