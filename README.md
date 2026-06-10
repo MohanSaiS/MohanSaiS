@@ -170,18 +170,18 @@ Experienced in bridging the gap between business and technology by translating c
 
 ## Certifications
 
-🏆 Deloitte Australia Data Analytics Job Simulation – Forage
+Deloitte Australia Data Analytics Job Simulation – Forage
 
 ---
 
 ## Connect With Me
 
-📧 **Email:** mohansai.ratnakar@gmail.com
+**Email:** mohansai.ratnakar@gmail.com
 
-💼 **LinkedIn:**  
+**LinkedIn:**  
 https://www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
 
-📍 **Location:** Hyderabad, India
+**Location:** Hyderabad, India
 
 ---
 
