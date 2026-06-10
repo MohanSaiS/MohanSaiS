@@ -178,8 +178,7 @@ Deloitte Australia Data Analytics Job Simulation – Forage
 
 **Email:** mohansai.ratnakar@gmail.com
 
-**LinkedIn:**  
-https://www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
+**LinkedIn:** https://www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
 
 **Location:** Hyderabad, India
 
