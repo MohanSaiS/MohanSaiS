@@ -127,11 +127,11 @@ SQL • Power BI • Tableau • Excel • KPI Reporting • Data Visualization 
 
 ## Connect With Me
 
-📧 Email: mohansai.ratnakar@gmail.com
+Email: mohansai.ratnakar@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
+LinkedIn: www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
 
-📍 Hyderabad, India
+Hyderabad, India
 
 ---
 
