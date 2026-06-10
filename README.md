@@ -171,7 +171,7 @@ Experienced in bridging the gap between business and technology by translating c
 ## Certifications
 
 Deloitte Australia Data Analytics Job Simulation – Forage
-
+Business Analysis Basics - Simplilearn
 ---
 
 ## Connect With Me
