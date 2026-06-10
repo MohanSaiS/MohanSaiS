@@ -119,9 +119,9 @@ SQL • Power BI • Tableau • Excel • KPI Reporting • Data Visualization 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohanSaiS&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanSaiS&layout=compact)
 
 ---
 
@@ -129,7 +129,7 @@ SQL • Power BI • Tableau • Excel • KPI Reporting • Data Visualization 
 
 📧 Email: mohansai.ratnakar@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
 
 📍 Hyderabad, India
 
