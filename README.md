@@ -107,7 +107,7 @@ Skilled in translating business needs into structured requirements and supportin
 ## Contact
 
 Email: mohansai.ratnakar@gmail.com  
-LinkedIn: linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182  
+LinkedIn: www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182  
 
 ---
 
