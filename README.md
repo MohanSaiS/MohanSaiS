@@ -1,92 +1,140 @@
+<div align="center">
+
 # Mohan Sai Sunkara
 
-### Business Analyst | Data Analyst | Agile Practitioner
+### Business Analyst • Data Analyst • Agile Practitioner
 
-Business Analyst with nearly 3 years of experience in Agile/Scrum environments, specializing in requirement gathering, user story creation, backlog management, stakeholder collaboration, and data-driven decision-making. Experienced in translating business needs into functional solutions while leveraging SQL, Power BI, Tableau, and Excel to generate actionable insights.
+Transforming business requirements into actionable solutions through analysis, stakeholder collaboration, and data-driven insights.
+
+<p>
+  <a href="mailto:mohansai.ratnakar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Experience-3%20Years-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile-Scrum-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business-Analysis-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-Analytics-green?style=flat-square" />
+</p>
+
+</div>
 
 ---
 
-## Professional Snapshot
+## About Me
 
-- 3 Years of Industry Experience
-- Requirement Gathering & Analysis
-- User Stories & Acceptance Criteria
-- Agile Scrum & SDLC
-- Backlog Management & Prioritization
-- SQL & Data Analytics
-- Power BI & Tableau Dashboards
-- UAT Planning & Execution
-- Jira, Confluence & Azure DevOps
-- Stakeholder Communication
+Business Analyst with nearly **3 years of experience** working in Agile/Scrum environments, specializing in requirement gathering, user story creation, backlog management, stakeholder communication, and data-driven decision-making.
+
+Experienced in bridging the gap between business and technology by translating complex business needs into functional solutions while leveraging **SQL, Power BI, Tableau, and Excel** to generate actionable insights and support strategic decisions.
 
 ---
 
-## Core Skills
+## Core Competencies
 
 ### Business Analysis
-![Agile](https://img.shields.io/badge/Agile-Scrum-blue)
-![Jira](https://img.shields.io/badge/Jira-Project%20Management-blue)
-![Confluence](https://img.shields.io/badge/Confluence-Documentation-blue)
-![ADO](https://img.shields.io/badge/Azure%20DevOps-Work%20Management-blue)
 
-Requirement Gathering • User Story Writing • BRD/FRD Documentation • Gap Analysis • Functional Specifications • Acceptance Criteria • Backlog Grooming • UAT Support • Stakeholder Management
+- Requirement Gathering & Analysis
+- User Story Writing
+- Acceptance Criteria Definition
+- BRD & FRD Documentation
+- Functional Specifications
+- Gap Analysis
+- Backlog Management
+- Requirement Traceability
+- UAT Planning & Support
+- Stakeholder Management
+
+### Agile & Product Delivery
+
+- Agile Scrum
+- Sprint Planning
+- Backlog Refinement
+- Product Owner Collaboration
+- SDLC
+- Cross-Functional Team Coordination
 
 ### Data Analytics
-![SQL](https://img.shields.io/badge/SQL-Analytics-green)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
-![Excel](https://img.shields.io/badge/Excel-Reporting-success)
 
-SQL • Power BI • Tableau • Excel • KPI Reporting • Data Visualization • ETL Concepts • Data Modeling • Business Insights
+- SQL
+- Power BI
+- Tableau
+- Microsoft Excel
+- KPI Reporting
+- Data Visualization
+- ETL Concepts
+- Data Modeling
+- Business Insights
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+</p>
 
 ---
 
 ## Featured Projects
 
-### Deloitte Australia Data Analytics Simulation
-**Tools:** Excel, Tableau
+### Retail Sales & Profitability Analysis
 
-- Performed exploratory data analysis and business trend identification
-- Built dashboards for stakeholder reporting
-- Delivered business recommendations based on analytical findings
+**SQL • Excel • Power BI**
 
-🔗 Repository: `Deloitte-Australia-Data-Analytics-Forage`
+- Analyzed sales and profitability trends across multiple dimensions
+- Identified key revenue drivers and business opportunities
+- Developed interactive KPI dashboards in Power BI
+- Delivered actionable business recommendations through data analysis
+
+🔗 **Repository:** Retail-Sales-Profitability-Analysis
 
 ---
 
-### Retail Sales & Profitability Analysis
-**Tools:** SQL, Excel, Power BI
+### Deloitte Australia Data Analytics Simulation
 
-- Analyzed revenue trends and profitability drivers
-- Created KPI dashboards for sales and profit performance
-- Generated actionable business insights from retail datasets
+**Excel • Tableau**
 
-🔗 Repository: `Retail-Sales-Profitability-Analysis`
+- Conducted exploratory data analysis on business datasets
+- Created Tableau dashboards for stakeholder reporting
+- Generated business insights and recommendations
+- Simulated an end-to-end consulting engagement
+
+🔗 **Repository:** Deloitte-Australia-Data-Analytics-Forage
 
 ---
 
 ### Business Analysis Artifacts
-**Tools:** Jira, Confluence, Agile
 
-- Sample BRDs and FRDs
+**Jira • Confluence • Agile**
+
+- Business Requirement Documents (BRD)
+- Functional Requirement Documents (FRD)
 - User Stories & Acceptance Criteria
 - UAT Test Cases
-- Process Flow Documentation
+- Process Flow Diagrams
 
-🔗 Repository: `Business-Analysis-Artifacts`
+🔗 **Repository:** Business-Analysis-Artifacts
 
 ---
 
 ### SQL for Business Analytics
-**Tools:** SQL
 
-- Joins
-- CTEs
-- Window Functions
-- KPI Queries
-- Business Reporting Scenarios
+**SQL**
 
-🔗 Repository: `SQL-for-Business-Analytics`
+- Business-focused SQL scenarios
+- KPI reporting queries
+- Joins, CTEs, Window Functions
+- Data analysis case studies
+
+🔗 **Repository:** SQL-for-Business-Analytics
 
 ---
 
@@ -96,67 +144,49 @@ SQL • Power BI • Tableau • Excel • KPI Reporting • Data Visualization 
 **Business Analyst (Software Engineer)**  
 **Nov 2022 – Sep 2025**
 
-**Key Contributions**
+✔ Gathered and analyzed business requirements across Agile delivery teams
 
-- Managed requirements across multiple Agile sprints
-- Authored user stories and acceptance criteria
-- Facilitated stakeholder discussions and backlog refinement
-- Supported UAT and requirement traceability
-- Built operational KPI dashboards in Power BI
-- Collaborated with development and QA teams throughout SDLC
+✔ Authored user stories and acceptance criteria for enterprise applications
+
+✔ Facilitated backlog refinement and stakeholder alignment sessions
+
+✔ Built operational KPI dashboards using Power BI
+
+✔ Supported UAT activities and requirement traceability
+
+✔ Collaborated with Product Owners, Developers, and QA teams throughout the SDLC
 
 ---
 
-## Current Focus
+## Currently Learning
 
 - Advanced SQL for Analytics
-- Business Analytics & Data Storytelling
-- Power BI Dashboard Development
+- Power BI Dashboard Design
+- Data Storytelling & Visualization
 - Product & Business Analysis Best Practices
 - Data-Driven Decision Making
 
 ---
 
-## Portfolio Highlights
+## Certifications
 
-📊 Retail Sales & Profitability Analysis
-- SQL analysis of sales trends and profitability
-- Power BI KPI dashboard
-
-📈 Deloitte Australia Data Analytics Simulation
-- Data cleaning and visualization
-- Tableau dashboard and stakeholder insights
-
-📋 Business Analysis Artifacts
-- BRD
-- User Stories
-- Acceptance Criteria
-- UAT Test Cases
-
-🗄 SQL for Business Analytics
-- Joins
-- CTEs
-- Window Functions
-- KPI Reporting
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohanSaiS&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanSaiS&layout=compact)
+🏆 Deloitte Australia Data Analytics Job Simulation – Forage
 
 ---
 
 ## Connect With Me
 
-Email: mohansai.ratnakar@gmail.com
+📧 **Email:** mohansai.ratnakar@gmail.com
 
-LinkedIn: www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/mohan-sai-venkata-ratnakar-sunkara-60095a182
 
-Hyderabad, India
+📍 **Location:** Hyderabad, India
 
 ---
 
-*"Turning business requirements into actionable solutions through analysis, collaboration, and data-driven insights."*
+<div align="center">
+
+### "Turning business requirements into measurable business outcomes."
+
+</div>
