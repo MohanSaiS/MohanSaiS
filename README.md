@@ -170,8 +170,9 @@ Experienced in bridging the gap between business and technology by translating c
 
 ## Certifications
 
-Deloitte Australia Data Analytics Job Simulation – Forage <br>
-Business Analysis Basics - Simplilearn
+Business Analysis Basics - Simplilearn <br>
+Deloitte Australia Data Analytics Job Simulation – Forage
+
 
 ---
 
